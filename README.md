@@ -1,1 +1,4 @@
-0.1.0-BETA
+
+# Chess publish BETA 0.1.0
+
+* 0.1.0-BETA
